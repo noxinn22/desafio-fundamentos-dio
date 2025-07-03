@@ -4,13 +4,13 @@ Esse é um projeto bem básico que fiz enquanto estou aprendendo Python.
 A ideia era criar um banco simples no terminal, onde dá pra fazer algumas operações como depósito, saque e consultar o extrato.
 
 ## O que esse código faz:
-✅ Permite fazer depósitos;  
-✅ Permite fazer saques (com limite de valor e quantidade por dia);  
-✅ Mostra o extrato com as operações feitas;  
-✅ Mostra o saldo da conta.
+* Permite fazer depósitos;  
+* Permite fazer saques (com limite de valor e quantidade por dia);  
+* Mostra o extrato com as operações feitas;  
+* Mostra o saldo da conta.
 
 ## Por que fiz esse projeto?
-Estou estudando programação em Pytho* e queria praticar o que vi:
+Estou estudando programação em Python e queria praticar o que vi:
 - Laços de repetição (`while`)
 - Condições (`if`, `elif`, `else`)
 - Manipulação de variáveis
